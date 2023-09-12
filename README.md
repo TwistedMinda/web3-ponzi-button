@@ -1,3 +1,5 @@
+![](https://github.com/TwistedMinda/web3-ponzi-button/blob/main/launch.png)
+
 ## Hardhat Project
 
 Run tests
